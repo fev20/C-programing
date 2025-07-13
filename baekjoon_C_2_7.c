@@ -25,3 +25,5 @@ int main(){
     }
     return 0;
 }
+
+//a==b==c 이런거 안됨
