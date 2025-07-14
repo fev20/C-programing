@@ -8,3 +8,5 @@ int main(){
     } 
     return 0;
 }
+
+//c언어에서 for 문을 사용할때는 for i in range가 아닌 for (int i=a; i<b; i++) 이런식으로 작성하여야함
